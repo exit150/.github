@@ -6,7 +6,7 @@ Quikrun is a cloud-based platform that allows you to compile code for multiple p
 
 To get started with Quikrun, follow these simple steps:
 
-- **Log in on Quikrun:** Head over to [quikrun.nparashar150.com](https://quikrun.nparashar150.com/) and sign up to get started. If you already have an account, simply log in.
+- **Log in on Quikrun:** Head over to [quik.run](https://www.quik.run/) and sign up to get started. If you already have an account, simply log in.
 - **Copy your Token:** Once you're logged in, go to your profile page and click on the "Reveal Token" button to obtain your authentication token.
     
 
